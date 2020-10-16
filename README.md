@@ -20,7 +20,7 @@ type `git checkout -b embed-video` to start up a new branch for this lesson.
 
 [Click here to get the OGV video linked to in the exercise](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/real-estate.ogv)
 
-### Embedding Videos
+## Embedding Videos
 
 Starting from inside your project folder (wherever your HTML files are stored),
 let's create a new folder for videos by typing `mkdir videos` in our terminal.
@@ -94,7 +94,7 @@ will play. Opera and Firefox, on the other hand, will play the `.ogv` file.
 Pretty much all modern browsers support at least one of these file types, so
 we'd have to dig up an old, out of date browser to see our message and link.
 
-### Wrapping Up
+## Wrapping Up
 
 We now have a nice video on our home page! Everything is working and looking
 good, so let's merge our `embed-video` branch with `master`. First, you'll
